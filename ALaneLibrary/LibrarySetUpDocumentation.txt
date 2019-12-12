@@ -1,0 +1,5 @@
+mongo db atlas -> small free cloud database
+	       -> pairs well w/ JSON
+jquery -> look into this
+
+Materialize CSS (needs testing if installed correctly)

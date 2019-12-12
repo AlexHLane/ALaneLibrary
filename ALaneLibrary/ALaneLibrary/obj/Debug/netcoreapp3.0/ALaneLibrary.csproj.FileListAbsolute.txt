@@ -12,7 +12,6 @@ C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netc
 C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\ALaneLibrary.TagHelpers.input.cache
 C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\ALaneLibrary.TagHelpers.output.cache
 C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\ALaneLibrary.RazorCoreGenerate.cache
-C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -124,3 +123,5 @@ C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netc
 C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\ALaneLibrary.Views.pdb
 C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\ALaneLibrary.dll
 C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\ALaneLibrary.pdb
+C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\luthe\OneDrive\Desktop\LibTest\ALaneLibrary\ALaneLibrary\obj\Debug\netcoreapp3.0\Razor\Views\Book\Index.cshtml.g.cs

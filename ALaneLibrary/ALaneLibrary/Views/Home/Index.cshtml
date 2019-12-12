@@ -1,4 +1,4 @@
-﻿@{
+﻿@*@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -6,3 +6,35 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+*@
+
+@model ALaneLibrary.ViewModels.MemberViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>List of Books and list of Customers together</h2>
+
+<h4>List of Books</h4>
+@*<ul>
+    @foreach (var book in Model.BookCollection)
+    {
+        <li>
+            @book.Title;
+        </li>
+
+    }
+</ul>
+*@
+
+<h4>List of Customers</h4>
+@*
+<ul>
+    @foreach (var customer in Model.MemberList)
+    {
+        <li>
+            @customer.MemberName;
+        </li>
+
+    }
+</ul>  *@
